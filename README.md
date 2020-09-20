@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on China Communications Construction Company
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/?style=flat-square&logo=Python&logoColor=fff),C,Go
+- 🌱 I’m currently learning ![Python](https://img.shields.io/endpoint?color=yellow&label=Python&logo=Python&logoColor=green),C,Go
 - 👯 I’m looking to collaborate on dalao
 - 🤔 I’m looking for help with money
 - 💬 Ask me about PHP,Python,C,Go and ... STEAM
