@@ -1,4 +1,4 @@
-<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=moon-zhangyue&show_icons=true&hide_title=true&theme=calm" />
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=moon-zhangyue&show_icons=true&hide_title=true&theme=calm" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon-zhangyue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
