@@ -1,4 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=moon-zhangyue&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=moon-zhangyue&show_icons=true&hide_title=true&theme=calm" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon-zhangyue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 - 🔭 I’m currently working on China Communications Construction Company
