@@ -3,12 +3,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon-zhangyue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋
+### Hi there 👋![Python](https://img.shields.io/badge/-Python-brightgreen) ![C](https://img.shields.io/badge/-C-red) ![Go](https://img.shields.io/badge/-Go-yellow)   
 - 🔭 I’m currently working on China Communications Construction Company
 - 🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python-brightgreen) ![C](https://img.shields.io/badge/-C-red) ![Go](https://img.shields.io/badge/-Go-yellow)   
 - 👯 I’m looking to collaborate on dalao
 - 🤔 I’m looking for help with money
-- 💬 Ask me about PHP,Python,C,Go and ... STEAM
+- 💬 Ask me about ![PHP](https://img.shields.io/badge/-PHP-blue) ![Python](https://img.shields.io/badge/-Python-brightgreen) ![C](https://img.shields.io/badge/-C-red) ![Go](https://img.shields.io/badge/-Go-yellow)    and ... STEAM
 - 📫 How to reach me: https://github.com/moon-zhangyue
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: PLAY ALL!
