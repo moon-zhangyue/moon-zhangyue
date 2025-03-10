@@ -2,9 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon-zhangyue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋![Python](https://img.shields.io/badge/-Python-brightgreen) ![C](https://img.shields.io/badge/-C-red) ![Go](https://img.shields.io/badge/-Go-yellow)   
+### Hi there 👋![PHP](https://img.shields.io/badge/-PHP-brightgreen) ![C](https://img.shields.io/badge/-C-red) ![Go](https://img.shields.io/badge/-Go-yellow)   
 - 🔭 I’m currently working on China Communications Construction Company
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python-brightgreen) ![C](https://img.shields.io/badge/-C-red) ![Go](https://img.shields.io/badge/-Go-yellow)   
+- 🌱 I’m currently learning ![PHP](https://img.shields.io/badge/-PHP-brightgreen) ![C](https://img.shields.io/badge/-C-red) ![Go](https://img.shields.io/badge/-Go-yellow)   
 - 👯 I’m looking to collaborate on dalao
 - 🤔 I’m looking for help with money
 - 💬 Ask me about ![PHP](https://img.shields.io/badge/-PHP-blue) ![Python](https://img.shields.io/badge/-Python-brightgreen) ![C](https://img.shields.io/badge/-C-red) ![Go](https://img.shields.io/badge/-Go-yellow)    and ... STEAM
